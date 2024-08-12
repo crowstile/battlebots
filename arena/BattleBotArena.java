@@ -174,6 +174,7 @@ import bots.*;
  * @version <br>1.10 - Rowbottom thickened bullets to increase visibility
  * @version <br>1.11 (Nov 6 2017) - Rowbottom increased NUM_BOTS and screen size to large bounds and fixed hardcoded references
  * @version <br>1.12 (Nov 6.2017) - Rowbottom Increased bot radius to 13 and increased movement and bullet speed
+ * @version <br>1.12 (Aug 12.2024) - Rowbottom removed Dumbbot references in Arena that were commented out.
  * @author Sam Scott
  *
  */
